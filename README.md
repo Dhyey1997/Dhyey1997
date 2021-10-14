@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dhyey1997
-- 👀 I’m interested in ... Learning different technologies from web development to any other technology
-- 🌱 I’m currently learning ... Machine Learning as well as Vue.js and Django
+- 👋 Hi, You have reached @Dhyey1997
+- 👀 interested in ... Learning different technologies from web development to any other technology
+- 🌱 currently learning ... Machine Learning as well as Vue.js and Django
 - 📫 How to reach me ... dhyeydave2017@gmail.com
 
 <!---
